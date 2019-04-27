@@ -5,6 +5,8 @@ Homework assignments and projects from Fundamental of Machine Learning
 
 Please refer to the information below for running the code. 
 
+**Please note, one will not be able to run this code as the one of the necessary input data was too large to upload to Git.**
+
 ### Download the file or clone the repository to a folder on your desktop. 
 ### If using Anaconda...
   * Open Spyder (Python versions 3.6+)

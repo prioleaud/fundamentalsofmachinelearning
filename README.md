@@ -2,7 +2,8 @@
 Homework assignments and projects from Fundamental of Machine Learning 
 
 ## Project00
-
+ **This project was completed by Diandra Prioleau**
+ 
 Please refer to the information below for running the code. 
 
 **Please note, one will not be able to run this code as the one of the necessary input data was too large to upload to Git.**
